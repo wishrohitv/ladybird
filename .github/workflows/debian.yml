@@ -7,7 +7,7 @@ on:
       ref:
         description: "Ladybird git ref (branch, tag or commit)"
         required: false
-        default: "rohit"
+        default: "master"
   push:
     tags: ["v*"]
 
